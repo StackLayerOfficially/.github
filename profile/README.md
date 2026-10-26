@@ -2,7 +2,7 @@
 
   <!-- Top Banner (Upload banner.png to this repo when ready) -->
   <a href="https://stacklayer.blogspot.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/StackLayerOfficially/.github/main/banner.jpg" alt="Stack Layer Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/StackLayerOfficially/.github/main/profile/banner.jpg" alt="Stack Layer Banner" width="100%" />
   </a>
 
   <br/><br/>
